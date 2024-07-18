@@ -1,5 +1,5 @@
-- It is a Capstone Project of Data Analysis
-- It's done with PYTHON Programing Language
+- Capstone Project: Diwali Sales Data Analysis
+- Language Used: PYTHON 
 - Libraries used: 
   1. Numpy
   2. Pandas
