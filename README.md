@@ -1,6 +1,6 @@
-It is a Capstone Project of Data Analysis
-It's done with PYTHON Programing Language
-Libraries used: 
+- It is a Capstone Project of Data Analysis
+- It's done with PYTHON Programing Language
+- Libraries used: 
   1. Numpy
   2. Pandas
   3. Mathplotlib.pyplot
